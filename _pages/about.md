@@ -18,19 +18,28 @@ redirect_from:
 
 ## About Me
 
+I am an undergraduate currently studying at the Ohio State University. Being passionate and imaginative in Robotics and Artificial Intelligence, I've actively taken part in several competitions and research projects, where my ability of creative thinking and leadership are effectively trained. I've gained experience in designing and programming self-driving systems for USVs and UAVs. I also have experience in multi-modal LLM, multi-agent reinforcement learning, object-centric NeRF and interactive perception as well, which is hopeful to form a full tech stack for human-robot collaborative embodied agents.
+
 *Research Keywords:* Robotics, MARL, Multi-Modal LLM, Object-Centric NeRF
+
+# 📖Educations
+
+- 2021-2023 Chinese University of Hongkong, Shenzhen, Guangdong, China.
+- 2023-Present The Ohio State University, Columbus, Ohio, USA.
 
 ## 🕹️Experiences
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 2023.6-Present Member of [DISCOVER lab](https://www.discover-lab.com/) of Tsinghua University.
+- 2022.6-2023.7 Undergraduate research assistant of [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en).
+- 2022.10-Present Leader of Robomaster team in CUHKsz, in charge of development of embedded devices, mechanics and robotic algorithms.
 
-# 📖 Educations
+## 👾Interesting Projects
 
-- 2021-2023 Chinese University of Hongkong, Shenzhen, China
-- 2023-Present The Ohio State University, Columbus, Ohio
+![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star) Contributor of `MetaGPT: The Multi-Agent Framework` [[Github](https://github.com/geekan/MetaGPT)][Arxiv]
 
-# 💻 Internships
+# 💻Internships
 
-- *2022.5-2022.7 YSEMI Microelectronics*
--
+- *2022.5-2022.7 YSEMI Microelectronics, Software engineer intern.*
+
+
+Visit my [blog](www.sablin.top) to learn more about me :)
