@@ -1,20 +1,5 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#About%20Me"
-
-  - title: "Educations"
-    url: "/#📖%20Educations"
-
-  - title: "Experiences"
-    url: "/#🕹️Experiences"
-
-  - title: "Interesting Projects"
-    url: "/#👾Interesting%20Projects"
-
-  - title: "Internships"
-    url: "/#-💻Internships"
-
   - title: "Blog"
     url: "https://www.sablin.top"
 
