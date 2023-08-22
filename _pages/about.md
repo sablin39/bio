@@ -38,13 +38,13 @@ I am an undergraduate currently studying at the Ohio State University. Being pas
 
 ## 🕹️Experiences
 
-- 2023.6-Present Intern in [DISCOVER lab](https://www.discover-lab.com/) of Tsinghua University, focusing on object-centric NeRF and robot manipulation based on affordance prediction.
-- 2022.6-2023.7 Undergraduate research assistant of [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en), in charge of developing cooperative unmanned surface viechles.
-- 2022.10-Present Leader of RoboMaster team in CUHKsz, in charge of development of embedded devices, mechanics and robotic algorithms.
+- 2023.6-2023.8 Intern in [DISCOVER lab](https://www.discover-lab.com/) of Tsinghua University, focusing on object-centric NeRF and robot manipulation based on affordance prediction.
+- 2022.6-2023.7 Undergraduate research assistant of [Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)](https://airs.cuhk.edu.cn/en), in charge of developing RL-powered cooperative unmanned surface viechles.
+- 2022.10-2023.8 Leader of RoboMaster team in CUHKsz, in charge of development of embedded devices, mechanics and robotic algorithms.
 
 ## 👾Interesting Projects
 
-![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star) Contributor of `MetaGPT: The Multi-Agent Framework` [[Github](https://github.com/geekan/MetaGPT)][Arxiv]
+![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star) Contributor of `MetaGPT: The Multi-Agent Framework` [[Github](https://github.com/geekan/MetaGPT)][[Arxiv](https://arxiv.org/abs/2308.00352)]
 
 # 💻Internships
 
